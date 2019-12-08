@@ -31,7 +31,7 @@ jobs:
 
     - name: Set git identity
       run : |
-        git config --global user.email "KFER.Mercer@gmail.com"
+        git config --global user.email "isailors@gmail.com"
         git config --global user.name "Crazy365"
 
     - name: Load upstream commits
